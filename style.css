@@ -59,7 +59,12 @@ header {
     margin-right: 10px;
 }
 
+#button:hover {
+    border: 5px solid black;
+    background-color: black;
+    color: white;
 
+}
 
 footer {
 
