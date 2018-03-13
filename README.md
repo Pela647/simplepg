@@ -1,2 +1,2 @@
 # simplepg
-simplistic landing Page
+[simplistic landing Page] https://pela647.github.io/simplepg/
