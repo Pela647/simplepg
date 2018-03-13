@@ -11,6 +11,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: 1900px 990px;
+    overflow: hidden;
 }
 
 #content {
@@ -45,7 +46,7 @@ header {
 
 }
 
-.button {
+#button {
     font-size: 17px;
     width: 150px;
     height: 75px;

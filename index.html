@@ -4,6 +4,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 </head>
 
 <body>
@@ -11,11 +12,11 @@
         <header></header>
         <main>
             <div>
-                <h1>Are you a Physicist?</h1>
+                <h1 class="animated rollIn">Are you a Physicist?</h1>
             </div>
             <div>
-                <button class="button" onclick="phy()">Yes</button>
-                <button class="button" onclick="notp()">No</button>
+                <button class="animated slideInLeft" id="button" onclick="phy()">Yes</button>
+                <button class="animated slideInRight" id="button" onclick="notp()">No</button>
             </div>
             <div id="content"></div>
         </main>
