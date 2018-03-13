@@ -1,2 +1,2 @@
 # simplepg
-[simplistic landing Page](https://pela647.github.io/simplepg/)
+Live Demo: [simplistic landing Page](https://pela647.github.io/simplepg/)
